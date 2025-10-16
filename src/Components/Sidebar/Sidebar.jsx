@@ -87,15 +87,15 @@ const Sidebar = ({ sidebar, category, setCategory }) => {
         </div>
         <div className="side-link">
           <img src={tom} alt="" />
-          <p>Justin Bieber</p>
+          <p>Dude Perfect</p>
         </div>
         <div className="side-link">
           <img src={megan} alt="" />
-          <p>5-Minute-Crafts</p>
+          <p>Logan Paul</p>
         </div>
         <div className="side-link">
           <img src={cameron} alt="" />
-          <p>Nas Daily</p>
+          <p>KSI</p>
         </div>
       </div>
     </div>
